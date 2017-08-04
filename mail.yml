@@ -1,0 +1,6 @@
+base_url: https://webmail.qainfotech.com/
+
+credentials:
+   username: your mail
+   password: your password
+landingPageTitle: ""
